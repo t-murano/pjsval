@@ -7,7 +7,7 @@ import (
 
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/moqada/pjsval"
+	"github.com/t-murano/pjsval"
 )
 
 const (
